@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mixins.lazy-optional-get.refmap.json",
+    "package": "rmc.mixins.lazy_optional_get.actual",
+    "mixins": [
+        "LazyOptionalMixin"
+    ]
+}
